@@ -69,7 +69,7 @@ This repository can be added as an extension in MakeCode.
 4. Search for:
 
 ```text
-https://github.com/gbhobbytech/1106-oled-test
+https://github.com/gbhobbytech/1106-OLED-Driver-Classroom-Ready
 ```
 
 5. Import the extension
@@ -86,7 +86,7 @@ To edit this repository directly in MakeCode:
 4. Paste:
 
 ```text
-https://github.com/gbhobbytech/1106-oled-test
+https://github.com/gbhobbytech/1106-OLED-Driver-Classroom-Ready
 ```
 
 5. Click **Import**
