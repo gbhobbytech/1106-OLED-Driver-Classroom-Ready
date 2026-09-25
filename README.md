@@ -4,6 +4,8 @@ A graphics and text extension for SH1106 128×64 I2C OLED displays on the BBC mi
 
 This extension was designed for classroom use with beginner-friendly blocks as well as more advanced drawing tools.
 
+![SH1106 OLED running with BBC micro:bit](assets/sh1106-demo.png)
+
 ---
 
 ## Open in MakeCode
